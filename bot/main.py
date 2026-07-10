@@ -2,9 +2,10 @@ import asyncio
 import logging
 
 from aiogram import Bot, Dispatcher
+from aiogram.fsm.storage.memory import MemoryStorage
 
 from bot.config import BOT_TOKEN
-from bot.handlers import start, common
+from bot.handlers import start, workout
 from bot.middlewares.auth import AuthMiddleware
 
 logging.basicConfig(level=logging.INFO)
@@ -12,12 +13,13 @@ logging.basicConfig(level=logging.INFO)
 
 async def main():
     bot = Bot(token=BOT_TOKEN)
-    dp = Dispatcher()
+    storage = MemoryStorage()
+    dp = Dispatcher(storage=storage)
 
     dp.message.middleware(AuthMiddleware())
 
     dp.include_router(start.router)
-    dp.include_router(common.router)
+    dp.include_router(workout.router)
 
     await dp.start_polling(bot)
 
