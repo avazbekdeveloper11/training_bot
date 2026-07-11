@@ -91,7 +91,7 @@ async def show_exercise(message: Message, session: dict, bot: Bot, user_id: int)
         try:
             await bot.send_animation(
                 message.chat.id,
-                exercise["gif"],
+                exercise["image"],
                 caption=text,
                 parse_mode="Markdown",
                 reply_markup=workout_control_kb(exercise_id, current_set, total_sets)
@@ -382,7 +382,7 @@ async def show_single_exercise(callback: CallbackQuery, bot: Bot):
             await callback.message.delete()
             await bot.send_animation(
                 callback.message.chat.id,
-                exercise["gif"],
+                exercise["image"],
                 caption=text,
                 parse_mode="Markdown",
                 reply_markup=single_exercise_kb(exercise_id)
