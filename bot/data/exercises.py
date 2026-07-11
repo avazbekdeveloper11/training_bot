@@ -12,7 +12,7 @@ EXERCISES = {
             "Tirsaklarni bukib pastga tushing",
             "Ko'krak yerga yaqinlashgach, yana yuqoriga ko'tariling"
         ],
-        "gif": "https://media.giphy.com/media/Kajbi6oGHMvqo8MnSv/giphy.gif",
+        "image": "https://i.imgur.com/8rLxTlC.gif",
         "category": "asosiy"
     },
     "pike_pushup": {
@@ -21,37 +21,37 @@ EXERCISES = {
         "reps": "8-12",
         "duration": None,
         "instructions": [
-            "Belni yuqoriga ko'taring",
-            "Boshingizni yerga tushiring",
+            "Oyoq va qo'llarni yerga qo'yib, belni yuqoriga ko'taring (teskari V shakl)",
+            "Boshingizni yerga tushiring, tirsaklar bukiladi",
             "Qo'llar bilan itarib yana tepaga chiqing"
         ],
-        "gif": "https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif",
+        "image": "https://i.imgur.com/JHfHxGN.gif",
         "category": "asosiy"
     },
     "plank": {
         "name": "🧘 Plank",
         "sets": 3,
         "reps": None,
-        "duration": 45,  # sekund
+        "duration": 45,
         "instructions": [
-            "Bilaklarga tayaning",
-            "Tana tekis chiziqda bo'lsin",
-            "Belni tushirmang, ko'tarmang"
+            "Bilaklarga tayaning (tirsak 90 daraja)",
+            "Tana tekis chiziqda bo'lsin - bosh, yelka, bel, tovon bir chiziqda",
+            "Belni tushirmang, ko'tarmang - qorinni ichiga torting"
         ],
-        "gif": "https://media.giphy.com/media/xT8qBff8cRRFf7k2u4/giphy.gif",
+        "image": "https://i.imgur.com/3bVJcMO.gif",
         "category": "asosiy"
     },
     "side_plank": {
         "name": "📐 Side Plank",
         "sets": 3,
         "reps": None,
-        "duration": 30,  # har tomon
+        "duration": 30,
         "instructions": [
-            "Yon bilan yoting",
-            "Tirsak va oyoq bilan tayangan holda belni ko'taring",
-            "Tanani tekis ushlang"
+            "Yon bilan yoting, tirsak yelka ostida",
+            "Tirsak va oyoq yon tomoni bilan tayangan holda belni ko'taring",
+            "Tanani tekis ushlang, boshdan oyoqgacha bir chiziq"
         ],
-        "gif": "https://media.giphy.com/media/3oriNYQX2lC6dfW2Ji/giphy.gif",
+        "image": "https://i.imgur.com/WLJfVnL.gif",
         "category": "asosiy"
     },
     "mountain_climber": {
@@ -60,11 +60,11 @@ EXERCISES = {
         "reps": "20",
         "duration": None,
         "instructions": [
-            "Plank holatida turing",
+            "Plank holatida turing - qo'llar tekis, yelka ostida",
             "Tizzalarni navbatma-navbat ko'krakka torting",
-            "Tez va ritmik bajaring"
+            "Tez va ritmik bajaring, yugurgandek"
         ],
-        "gif": "https://media.giphy.com/media/l3q2VZLzFKvFzAtUc/giphy.gif",
+        "image": "https://i.imgur.com/lrCCBMt.gif",
         "category": "asosiy"
     },
     "leg_raise": {
@@ -73,11 +73,11 @@ EXERCISES = {
         "reps": "12-15",
         "duration": None,
         "instructions": [
-            "Orqa bilan yoting",
-            "Oyoqlarni tekis holda ko'taring",
+            "Orqa bilan yoting, qo'llar yon tomonda yoki dumba ostida",
+            "Oyoqlarni tekis holda 90 gradusgacha ko'taring",
             "Sekin tushiring, yerga tegmasdan yana ko'taring"
         ],
-        "gif": "https://media.giphy.com/media/fxZPrsux3vlFY00F4A/giphy.gif",
+        "image": "https://i.imgur.com/XNvZqJP.gif",
         "category": "asosiy"
     },
     "superman": {
@@ -86,11 +86,11 @@ EXERCISES = {
         "reps": "12-15",
         "duration": None,
         "instructions": [
-            "Qorin bilan yoting",
-            "Qo'l va oyoqlarni bir vaqtda ko'taring",
+            "Qorin bilan yoting, qo'l va oyoqlar cho'zilgan",
+            "Qo'l va oyoqlarni bir vaqtda yerdan ko'taring",
             "2 soniya ushlab, sekin tushiring"
         ],
-        "gif": "https://media.giphy.com/media/YqbByPtLwVrBcpKJOK/giphy.gif",
+        "image": "https://i.imgur.com/d1HPfqD.gif",
         "category": "asosiy"
     },
     "burpee": {
@@ -99,14 +99,14 @@ EXERCISES = {
         "reps": "8-10",
         "duration": None,
         "instructions": [
-            "Tik turing",
-            "Cho'kkalang, qo'llarni yerga qo'ying",
-            "Oyoqlarni orqaga sakrating",
-            "Push-up qiling",
-            "Oyoqlarni oldinga olib keling",
-            "Tepaga sakrab qayting"
+            "1. Tik turing",
+            "2. Cho'kkalang, qo'llarni yerga qo'ying",
+            "3. Oyoqlarni orqaga sakrating (plank holati)",
+            "4. Push-up qiling",
+            "5. Oyoqlarni oldinga sakrating",
+            "6. Tepaga sakrab qayting, qo'llarni tepaga ko'taring"
         ],
-        "gif": "https://media.giphy.com/media/23hPPMRgPxbNBlPQe3/giphy.gif",
+        "image": "https://i.imgur.com/SfQPatF.gif",
         "category": "asosiy"
     },
 
@@ -117,11 +117,11 @@ EXERCISES = {
         "reps": None,
         "duration": 45,
         "instructions": [
-            "Turnikni mahkam ushlang",
-            "Faqat osilib turing",
-            "Yelkalaringizni bo'shashtiring"
+            "Turnikni kaft bilan mahkam ushlang",
+            "Tanani to'liq osiltirib turing, oyoqlar yerga tegmasin",
+            "Yelkalarni biroz pastga torting, bo'shashtirib qo'ymang"
         ],
-        "gif": "https://media.giphy.com/media/l0Ex6kDPwiuswTXs4/giphy.gif",
+        "image": "https://i.imgur.com/ZtXgBWX.gif",
         "category": "bilak"
     },
     "wrist_curl": {
@@ -130,12 +130,12 @@ EXERCISES = {
         "reps": "15-20",
         "duration": None,
         "instructions": [
-            "Bilagingizni tizzaga qo'ying",
-            "Kaft tepaga qarasin",
-            "Faqat bilakni yuqoriga buking",
+            "O'tiring, bilagingizni tizzaga qo'ying, kaft tepaga qaraydi",
+            "Qo'lda og'irlik (gantel/suv shishasi) ushlang",
+            "Faqat bilakni yuqoriga buking, tirsak qimirlamasin",
             "Sekin tushiring"
         ],
-        "gif": "https://media.giphy.com/media/l4FGlcBatEK8aaL4Y/giphy.gif",
+        "image": "https://i.imgur.com/dCKWpRZ.gif",
         "category": "bilak"
     },
     "reverse_wrist_curl": {
@@ -144,11 +144,11 @@ EXERCISES = {
         "reps": "15-20",
         "duration": None,
         "instructions": [
-            "Kaft pastga qarasin",
+            "Xuddi wrist curl kabi, lekin kaft pastga qaraydi",
             "Faqat bilakni tepaga ko'taring",
-            "Sekin tushiring"
+            "Sekin tushiring, harakatni nazorat qiling"
         ],
-        "gif": "https://media.giphy.com/media/3oKIP9cJEOO9ljKoCc/giphy.gif",
+        "image": "https://i.imgur.com/YkXnVpM.gif",
         "category": "bilak"
     },
     "farmer_carry": {
@@ -157,11 +157,11 @@ EXERCISES = {
         "reps": None,
         "duration": 45,
         "instructions": [
-            "Ikki qo'lda og'ir yukni ushlang",
-            "Qo'llarni bukmasdan to'g'ri yurib boring",
-            "Bilak va ushlash kuchini oshiradi"
+            "Ikki qo'lda og'ir yukni (gantel, suv shishasi) ushlang",
+            "Yelkalarni orqaga torting, ko'krak oldinga",
+            "Qo'llarni bukmasdan to'g'ri yurib boring"
         ],
-        "gif": "https://media.giphy.com/media/wOXQJTA67Yxtm/giphy.gif",
+        "image": "https://i.imgur.com/hSm3qJr.gif",
         "category": "bilak"
     },
 
@@ -171,8 +171,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Bo'yinni sekin aylantiring"],
-        "gif": None,
+        "instructions": [
+            "Tik turing, yelkalar bo'sh",
+            "Bo'yinni sekin soat yo'nalishi bo'yicha aylantiring",
+            "Keyin teskari yo'nalishda aylantiring"
+        ],
+        "image": "https://i.imgur.com/qJvLrGE.gif",
         "category": "isinish"
     },
     "shoulder_rotation": {
@@ -180,8 +184,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Yelkalarni oldinga va orqaga aylantiring"],
-        "gif": None,
+        "instructions": [
+            "Tik turing, qo'llar yon tomonda",
+            "Yelkalarni oldinga doira bo'ylab aylantiring",
+            "Keyin orqaga aylantiring"
+        ],
+        "image": "https://i.imgur.com/P3DLULN.gif",
         "category": "isinish"
     },
     "arm_circles": {
@@ -189,8 +197,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Qo'llarni oldinga va orqaga aylantiring"],
-        "gif": None,
+        "instructions": [
+            "Qo'llarni yon tomonga tekis cho'zing",
+            "Kichik doiralar bilan oldinga aylantiring",
+            "Keyin orqaga aylantiring, doiralarni kattalashtiring"
+        ],
+        "image": "https://i.imgur.com/kCvHPLZ.gif",
         "category": "isinish"
     },
     "jogging": {
@@ -198,8 +210,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 60,
-        "instructions": ["Joyda yuguring, tizzalarni ko'taring"],
-        "gif": "https://media.giphy.com/media/l3fZPYrlEGoSXneWQ/giphy.gif",
+        "instructions": [
+            "Joyda yuguring",
+            "Tizzalarni balandroq ko'taring",
+            "Qo'llarni harakatlantiring"
+        ],
+        "image": "https://i.imgur.com/XvMZLXA.gif",
         "category": "isinish"
     },
 
@@ -209,8 +225,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Yelkangizni cho'zing, har tomon 30 soniya"],
-        "gif": None,
+        "instructions": [
+            "Bir qo'lni ko'krak oldidan o'tkazing",
+            "Ikkinchi qo'l bilan tirsak ustidan bosib ushlab turing",
+            "Har tomon 15 soniya, yelkada cho'zilish sezasiz"
+        ],
+        "image": "https://i.imgur.com/7wLqKVu.gif",
         "category": "chozilish"
     },
     "triceps_stretch": {
@@ -218,8 +238,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Tricepsni cho'zing"],
-        "gif": None,
+        "instructions": [
+            "Bir qo'lni tepaga ko'taring va tirsak orqali buking",
+            "Kaftni yelka ortiga tushiring",
+            "Ikkinchi qo'l bilan tirsakni sekin bosing"
+        ],
+        "image": "https://i.imgur.com/bJPqMcF.gif",
         "category": "chozilish"
     },
     "back_stretch": {
@@ -227,8 +251,12 @@ EXERCISES = {
         "sets": 1,
         "reps": None,
         "duration": 30,
-        "instructions": ["Belni burib cho'zing"],
-        "gif": None,
+        "instructions": [
+            "O'tiring, oyoqlar oldinga cho'zilgan",
+            "Bir oyoqni buking va ikkinchi oyoq ustidan o'tkazing",
+            "Tanani bukilgan oyoq tomonga buring, orqa bilan cho'zilish sezasiz"
+        ],
+        "image": "https://i.imgur.com/Gk8gXuC.gif",
         "category": "chozilish"
     },
 }

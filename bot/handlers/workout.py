@@ -87,7 +87,7 @@ async def show_exercise(message: Message, session: dict, bot: Bot, user_id: int)
         text += f"  {i}. {instruction}\n"
 
     # GIF yuborish
-    if exercise.get("gif"):
+    if exercise.get("image"):
         try:
             await bot.send_animation(
                 message.chat.id,
@@ -377,7 +377,7 @@ async def show_single_exercise(callback: CallbackQuery, bot: Bot):
     for i, instruction in enumerate(exercise["instructions"], 1):
         text += f"  {i}. {instruction}\n"
 
-    if exercise.get("gif"):
+    if exercise.get("image"):
         try:
             await callback.message.delete()
             await bot.send_animation(
