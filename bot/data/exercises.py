@@ -12,7 +12,7 @@ EXERCISES = {
             "Tirsaklarni bukib pastga tushing",
             "Ko'krak yerga yaqinlashgach, yana yuqoriga ko'tariling"
         ],
-        "image": "https://i.imgur.com/8rLxTlC.gif",
+        "image": "https://media1.tenor.com/m/2Irf93xkGoMAAAAd/push-up-exercise.gif",
         "category": "asosiy"
     },
     "pike_pushup": {
@@ -25,7 +25,7 @@ EXERCISES = {
             "Boshingizni yerga tushiring, tirsaklar bukiladi",
             "Qo'llar bilan itarib yana tepaga chiqing"
         ],
-        "image": "https://i.imgur.com/JHfHxGN.gif",
+        "image": "https://media1.tenor.com/m/-n8ulyKB77MAAAAd/handstandpikepushups-noequipmentexercisesmen.gif",
         "category": "asosiy"
     },
     "plank": {
@@ -38,7 +38,7 @@ EXERCISES = {
             "Tana tekis chiziqda bo'lsin - bosh, yelka, bel, tovon bir chiziqda",
             "Belni tushirmang, ko'tarmang - qorinni ichiga torting"
         ],
-        "image": "https://i.imgur.com/3bVJcMO.gif",
+        "image": "https://media1.tenor.com/m/73Sld1d9MbkAAAAd/plank-workout.gif",
         "category": "asosiy"
     },
     "side_plank": {
@@ -51,7 +51,7 @@ EXERCISES = {
             "Tirsak va oyoq yon tomoni bilan tayangan holda belni ko'taring",
             "Tanani tekis ushlang, boshdan oyoqgacha bir chiziq"
         ],
-        "image": "https://i.imgur.com/WLJfVnL.gif",
+        "image": "https://media1.tenor.com/m/WVSGsKLKjhcAAAAd/pilates-sideplank.gif",
         "category": "asosiy"
     },
     "mountain_climber": {
@@ -64,7 +64,7 @@ EXERCISES = {
             "Tizzalarni navbatma-navbat ko'krakka torting",
             "Tez va ritmik bajaring, yugurgandek"
         ],
-        "image": "https://i.imgur.com/lrCCBMt.gif",
+        "image": "https://media1.tenor.com/m/JByBVZCIFdsAAAAd/mountain-climbers.gif",
         "category": "asosiy"
     },
     "leg_raise": {
@@ -77,7 +77,7 @@ EXERCISES = {
             "Oyoqlarni tekis holda 90 gradusgacha ko'taring",
             "Sekin tushiring, yerga tegmasdan yana ko'taring"
         ],
-        "image": "https://i.imgur.com/XNvZqJP.gif",
+        "image": "https://media1.tenor.com/m/-YFifv1jGakAAAAd/leg-raise-exercise.gif",
         "category": "asosiy"
     },
     "superman": {
@@ -90,7 +90,7 @@ EXERCISES = {
             "Qo'l va oyoqlarni bir vaqtda yerdan ko'taring",
             "2 soniya ushlab, sekin tushiring"
         ],
-        "image": "https://i.imgur.com/d1HPfqD.gif",
+        "image": "https://media1.tenor.com/m/mju5ewyZa0UAAAAd/noequipmentexercisesmen-supermans.gif",
         "category": "asosiy"
     },
     "burpee": {
@@ -106,7 +106,7 @@ EXERCISES = {
             "5. Oyoqlarni oldinga sakrating",
             "6. Tepaga sakrab qayting, qo'llarni tepaga ko'taring"
         ],
-        "image": "https://i.imgur.com/SfQPatF.gif",
+        "image": "https://media1.tenor.com/m/1WCk26nctLEAAAAd/burpee-exercise.gif",
         "category": "asosiy"
     },
 
@@ -121,7 +121,7 @@ EXERCISES = {
             "Tanani to'liq osiltirib turing, oyoqlar yerga tegmasin",
             "Yelkalarni biroz pastga torting, bo'shashtirib qo'ymang"
         ],
-        "image": "https://i.imgur.com/ZtXgBWX.gif",
+        "image": "https://media1.tenor.com/m/AddgVHfN7V0AAAAd/workout-fitness.gif",
         "category": "bilak"
     },
     "wrist_curl": {
@@ -135,7 +135,7 @@ EXERCISES = {
             "Faqat bilakni yuqoriga buking, tirsak qimirlamasin",
             "Sekin tushiring"
         ],
-        "image": "https://i.imgur.com/dCKWpRZ.gif",
+        "image": "https://media1.tenor.com/m/J3eICLvit4kAAAAd/wrist-curl-bar.gif",
         "category": "bilak"
     },
     "reverse_wrist_curl": {
@@ -148,7 +148,7 @@ EXERCISES = {
             "Faqat bilakni tepaga ko'taring",
             "Sekin tushiring, harakatni nazorat qiling"
         ],
-        "image": "https://i.imgur.com/YkXnVpM.gif",
+        "image": "https://media1.tenor.com/m/J3eICLvit4kAAAAd/wrist-curl-bar.gif",
         "category": "bilak"
     },
     "farmer_carry": {
@@ -161,7 +161,7 @@ EXERCISES = {
             "Yelkalarni orqaga torting, ko'krak oldinga",
             "Qo'llarni bukmasdan to'g'ri yurib boring"
         ],
-        "image": "https://i.imgur.com/hSm3qJr.gif",
+        "image": "https://media1.tenor.com/m/OC3OCZAAZL4AAAAd/dumbbellfarmerswalk.gif",
         "category": "bilak"
     },
 
@@ -176,7 +176,7 @@ EXERCISES = {
             "Bo'yinni sekin soat yo'nalishi bo'yicha aylantiring",
             "Keyin teskari yo'nalishda aylantiring"
         ],
-        "image": "https://i.imgur.com/qJvLrGE.gif",
+        "image": "https://media1.tenor.com/m/D4c8qfnDfwcAAAAd/neck-stretch-neck-roll.gif",
         "category": "isinish"
     },
     "shoulder_rotation": {
@@ -189,7 +189,7 @@ EXERCISES = {
             "Yelkalarni oldinga doira bo'ylab aylantiring",
             "Keyin orqaga aylantiring"
         ],
-        "image": "https://i.imgur.com/P3DLULN.gif",
+        "image": "https://media1.tenor.com/m/QFebYer_8IQAAAAd/shoulder-rotation-rotation.gif",
         "category": "isinish"
     },
     "arm_circles": {
@@ -202,7 +202,7 @@ EXERCISES = {
             "Kichik doiralar bilan oldinga aylantiring",
             "Keyin orqaga aylantiring, doiralarni kattalashtiring"
         ],
-        "image": "https://i.imgur.com/kCvHPLZ.gif",
+        "image": "https://media1.tenor.com/m/V6SWTCpJ5q8AAAAd/arm-circles.gif",
         "category": "isinish"
     },
     "jogging": {
@@ -215,7 +215,7 @@ EXERCISES = {
             "Tizzalarni balandroq ko'taring",
             "Qo'llarni harakatlantiring"
         ],
-        "image": "https://i.imgur.com/XvMZLXA.gif",
+        "image": "https://media1.tenor.com/m/7ubhJ5-pNbwAAAAd/running-in-place-jog-in-place.gif",
         "category": "isinish"
     },
 
@@ -230,7 +230,7 @@ EXERCISES = {
             "Ikkinchi qo'l bilan tirsak ustidan bosib ushlab turing",
             "Har tomon 15 soniya, yelkada cho'zilish sezasiz"
         ],
-        "image": "https://i.imgur.com/7wLqKVu.gif",
+        "image": "https://media1.tenor.com/m/wpZBPME5uuMAAAAd/arm-stretch-arm-bending.gif",
         "category": "chozilish"
     },
     "triceps_stretch": {
@@ -243,7 +243,7 @@ EXERCISES = {
             "Kaftni yelka ortiga tushiring",
             "Ikkinchi qo'l bilan tirsakni sekin bosing"
         ],
-        "image": "https://i.imgur.com/bJPqMcF.gif",
+        "image": "https://media1.tenor.com/m/sEqZ7v095a0AAAAd/seated-dumbbell-overhead-triceps-extension.gif",
         "category": "chozilish"
     },
     "back_stretch": {
@@ -256,7 +256,7 @@ EXERCISES = {
             "Bir oyoqni buking va ikkinchi oyoq ustidan o'tkazing",
             "Tanani bukilgan oyoq tomonga buring, orqa bilan cho'zilish sezasiz"
         ],
-        "image": "https://i.imgur.com/Gk8gXuC.gif",
+        "image": "https://media1.tenor.com/m/0ij4dUX9j-oAAAAd/back-treatment-dr-joseph-cipriano-dc.gif",
         "category": "chozilish"
     },
 }
